@@ -1,8 +1,10 @@
 *{
   padding: 0px;margin: 0px;
 }
-body{				
-  background: white;	
-  font-family:arial;
-  font-size:100px;
-}			
+div{
+  margin: 50px;
+  width: 500px;
+  height: 60px;
+  background-color: burlywood;
+  color: wheat;
+}
